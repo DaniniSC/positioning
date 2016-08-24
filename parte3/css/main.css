@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+div {
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.cajaRosa {
+	background-color: #ee3e64;
+}
+.cajaAzul {
+	background-color: #44accf;
+	left: 200px;
+}
+.cajaVerde {
+	background-color: #b7d84b;
+}
